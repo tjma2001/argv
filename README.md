@@ -165,7 +165,7 @@ argv.help();
 ```
 The MIT License
 
-Copyright (c) 2012-2013 Corey Hart
+Copyright (c) 2012-2018 Taariq Mullins
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
