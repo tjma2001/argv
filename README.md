@@ -1,10 +1,6 @@
 # argv
 
-argv is a nodejs module that does command line argument parsing.  
-  
-[![NPM version](https://badge.fury.io/js/argv.png)](http://badge.fury.io/js/argv)
-[![Build Status](https://travis-ci.org/codenothing/argv.png?branch=master)](https://travis-ci.org/codenothing/argv)
-[![Code Climate](https://codeclimate.com/github/codenothing/argv.png)](https://codeclimate.com/github/codenothing/argv)
+argv is a nodejs module that does command line argument parsing.
 
 ### Installation
 
