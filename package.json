@@ -12,7 +12,7 @@
 		"url": "https://github.com/tjma2001/argv"
 	},
 	"author": "Corey Hart <corey@codenothing.com>",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"main": "./index.js",
 	"engines": {
 		"node": ">=0.6.10"
