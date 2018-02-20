@@ -7,6 +7,10 @@
 		"argv",
 		"options"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tjma2001/argv"
+	},
 	"author": "Corey Hart <corey@codenothing.com>",
 	"version": "1.0.3",
 	"main": "./index.js",
