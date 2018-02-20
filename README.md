@@ -12,7 +12,7 @@ $ npm install argv
 ### Usage
 
 ```js
-var argv = require( 'argv' );
+var argv = require( 'argv-updated' );
 var args = argv.option( options ).run();
 -> { targets: [], options: {} }
 ```
